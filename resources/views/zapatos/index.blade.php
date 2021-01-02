@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('botones')
-<a type="button" class="btn btn-primary" href="">Registrar Zapatos</a>
+<a type="button" class="btn btn-primary" href="">Registrar Zapatoss</a>
 @endsection
 @section('content')
     <h2 class="text-center mb-5"> zapatos</h5>
